@@ -1,0 +1,15 @@
+# Ignore everything
+*
+# Whitelist subdirectories
+!*/
+
+# Whitelist the following extensions
+!*.pde
+!.gitignore
+!README.md
+
+# Ignore specific folders
+examples/
+librairies/
+tools/
+templates/
